@@ -159,7 +159,8 @@
   }
   
   .intro {
-    background-color: #123235 !important;
+    background: linear-gradient(180deg, #6743e9, #135c7e 73%) !important;
+    /* background-color: #123235 !important; */
     background-image: url("../headshot.png");
     background-position: right;
     background-repeat: no-repeat;
