@@ -11,12 +11,7 @@ $('.typed').typeIt({
   .tiType('Designer')
   .tiPause(3000)
   .tiDelete()
-  .tiType('Coder')
-  .tiPause(3000)
-  .tiDelete()
   .tiType('DevOps Engineer')
   .tiPause(3000)
   .tiDelete()
-  .tiType('Gamer')
-  .tiPause(3000)
-  .tiDelete()
+
